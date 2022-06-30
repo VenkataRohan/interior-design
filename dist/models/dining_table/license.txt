@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dining Table
+* source:	https://sketchfab.com/3d-models/dining-table-4db08c2a400246e9870961c50c22b25e
+* author:	DKDTheGreat1 (https://sketchfab.com/DKDTheGreat1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dining Table" (https://sketchfab.com/3d-models/dining-table-4db08c2a400246e9870961c50c22b25e) by DKDTheGreat1 (https://sketchfab.com/DKDTheGreat1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
